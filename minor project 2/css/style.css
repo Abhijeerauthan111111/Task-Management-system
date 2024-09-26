@@ -1,0 +1,175 @@
+body{
+    background-color: #EDE8F5;
+    padding: 0px;
+    margin: 0px;
+}
+
+#login-home-page{
+   background-color: #ADBBDA;
+   top:25vh;
+   height:50vh;
+   width: 30vw;
+   padding-left: 50px;
+   padding-right: 50px;
+   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0);
+   border-radius: 10px;
+}
+#adlogin{
+    margin-left: 522222px;
+}
+
+
+a:hover{
+    color: white;
+}
+
+/* .colu{
+    display: flex;
+    flex-direction: row;
+
+} */
+
+
+
+.shadow{
+    box-sizing: 6px 3px 10px grey;
+}
+
+.custom-btn{
+    background-color: #3d52a0;
+    color: white;
+    box-shadow: 6px 3px 10px grey;
+}
+
+.custom-btn:active{
+    background-color: #14276c;
+    color: white;
+    box-shadow: none
+}
+
+
+.custom-btn:hover{
+    background-color: #14276c;
+    color: white;
+}
+.log{
+    background-color: WHITE ;
+    color: #3d52a0 ;
+}
+
+
+/* #logadmin{
+    margin-left: 72px;
+}
+
+#userreg{
+    margin-left: 5px;
+} */
+
+
+
+#register-home-page{
+    background-color:  #ADBBDA;
+    top:25vh;
+    height:60vh;
+    width: 30vw;
+    padding-left: 50px;
+    padding-right: 50px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0);
+    border-radius: 10px;
+}
+
+#header{
+    background-color: #ADBBDA;
+    height: 8vh;
+    width: 101vw;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    padding-left: 50px;
+}
+#left-sidebar{
+    background-color:#7091e6;
+    display: inline-block;
+    height: 100vh;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0);
+    border-radius: 10px;
+}
+#left-sidebar table tr a{
+   text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+
+#left-sidebar table tr a:hover{
+    color: black;
+   
+}
+
+#right-sidebar{
+    color: #fff;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0);
+    border-radius: 10px;
+}
+
+#right-sidebar ul{
+    list-style-type: none;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0);
+    border-radius: 10px;
+}
+
+#admin-table{
+    background-color:#7091e6;
+    text-decoration-style: none;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0);
+    border-radius: 5px;
+}
+
+#sub-headers{
+    color:#3d52a0;
+}
+
+
+.regadmin{
+    background-color: transparent;
+    border-radius: 25px;
+    border: none;
+    padding: 3px 5px;
+
+}
+.regadmin:hover{
+background-color:#b4c2e1 ;
+border-radius: 25px;
+border: none;
+
+
+}
+ 
+#edit{
+    border: none;
+    box-shadow: 6px 3px 10px black;
+    background-color: rgb(13, 135, 13);
+    border-radius: 7px;
+    margin-right: 4px;
+
+}
+
+#edit:active{
+/* background-color: #7091e6; */
+box-shadow: none;
+}
+
+#del{
+    border: none;
+    box-shadow: 6px 3px 10px black;
+    background-color: rgb(228, 13, 13);
+    border-radius: 7px;
+    margin-left: 4px;
+
+}
+
+#del:active{
+/* background-color: #7091e6; */
+box-shadow: none;
+}
+
+
